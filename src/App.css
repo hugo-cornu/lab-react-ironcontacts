@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 70px;
 }
 
 .App-logo {
@@ -35,4 +36,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.tableTitle {
+  font-size: 2rem;
+}
+
+.subHeader {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+img {
+  width: 120px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr td {
+  text-align: center;
+  padding: 0 10px 0 10px;
+}
+
+button {
+  margin: 30px;
 }
